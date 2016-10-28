@@ -23,7 +23,7 @@ Two example scripts are included in the `examples/` directory: `rot13.em` and `h
 
 ## Usage
 
-You need a working installation of [rust](https://rustlang.org) and [cargo](https://cargo.io). Then build it using
+You need a working installation of [rust](https://www.rust-lang.org) and [cargo](https://cargo.io). Then build it using
 
 ```
 cargo build
