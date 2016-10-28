@@ -1,6 +1,6 @@
-# emojy
+# emojy-rust
 
-A brainfuck dialect using emojis.
+Rust interpreter for emojy, a brainfuck dialect using emojis. 
 
 ## Commands
 
